@@ -1,0 +1,8 @@
+<div *ngFor="let item of cocktails">
+  <h1>Nom : {{ item.name }}</h1>
+  <h1>Level : {{ item.price }}</h1>
+  <img [src]="item.image" alt="" />
+</div>
+
+
+<!-- {{cocktails | json}} -->

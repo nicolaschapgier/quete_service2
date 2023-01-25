@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Jimmy",
+      "price": 4,
+      "image": "https://ih1.redbubble.net/image.2573487395.5063/ur,mask_flatlay_front,product,600x600.jpg"
+    },
+    {
+      "name": "Gus",
+      "price": 2,
+      "image": "https://ih1.redbubble.net/image.2573487395.5063/ur,mask_flatlay_front,product,600x600.jpg"
+    },
+    {
+      "name": "Amina",
+      "price": 10000,
+      "image": "https://i.seadn.io/gae/0Ub7DAS8TkhHyAsVtYcMa4mj6rjMXhvotZ2Wino_3139nOCDaGNh5Lzix6SxTp8HAFwauUAgemkf0hfsrKaqBtFpn_eu3n6QGAA8VQ?auto=format&w=1000"
+    }
+  ]
+}
